@@ -1,0 +1,32 @@
+#pieprincipal{
+    clear: both;
+    margin-top: 50px;
+} 
+#contenidoprincipal{
+    margin-left: 25px;
+    padding-left: 15px;
+    padding-top: 15px
+}
+#tablainformacion{
+    float: center;
+}
+table{
+    border-collapse: collapse; /* Los bordes de la tabla se pegarán (mejor aspecto) */
+    text-align: center;
+}
+td{
+    border: 1px solid #01FFFB;
+}
+tbody {
+    margin: 15px;
+    padding: 15px;
+    border: #01FFFB 2px solid;
+}
+thead{
+    border: #FF7401 2px solid;
+    background: orange;
+}
+.celda{
+    height: auto;
+    width: 300px;
+}
