@@ -1,0 +1,32 @@
+#principal{
+    width: 600px;
+    background-color: #2FEF;
+    text-align: center;
+    margin: 40px auto;
+    padding: 55px;
+    border: 3px solid #0000FF;
+    box-shadow: #086A87 15px 15px 35px;
+    text-shadow: #d8f6ce 3PX 3PX;
+
+}
+body{
+    background-color: #86E2D5;
+}
+div{
+    text-align: center;
+    padding: 1em;
+}
+.box{
+    background-color: #93e9d8;
+    color: rgb(43, 42, 42);
+    margin: 30px 10%;
+    padding: 1em;
+}
+#titulo{
+    font:bold 36px 'MiFuente';
+    text-shadow: #0f0 3px 3px 5px;
+}
+@font-face{
+    font-family: 'MiFuente';
+    src:url('GENEV4.ttf');
+}
