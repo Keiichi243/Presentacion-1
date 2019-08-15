@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html>
+ <head>               
+              <meta charset=UTF-8 />              
+              <meta name="descriptio" content="pagina de enseñanza html 5"/>
+              <meta name="keywords" content="html5,css3,Javascript, diseño web"/>       
+                <link rel="stylesheet" href="Stylo.css">
+                   <title>Luis Vergara</title>
+ </head>
+   
+<body bgcolor="8F0000">
+    <header>
+      <h1 align= "center">Luis Vergara</h1>
+    </header>
+
+  <section>
+    <h2>lugar al que me gustaria viajar</h2>           
+        <h3>reino unido</h3>
+      <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"width=440" height="220">
+      </figure>
+
+    <h2>Carro que me gustaria tener</h2>           
+        <h3>BMW M5</h3>
+      <figure>
+        <img src="https://www.bmw.es/content/dam/bmw/common/home/teaser/bmw-m-series-m5-competition-hometeaser-desktop.jpg/_jcr_content/renditions/cq5dam.resized.img.1680.large.time1556896335056.jpg"width=440" height="220">
+      </figure>
+
+    <h2>Hobbie</h2>           
+        <h3>Jugar videojuegos</h3>
+      <figure>
+        <img src="http://www.webemaster.fr/wp-content/uploads/2018/05/claviers-gamer-meilleur.jpg"width=440" height="220">
+      </figure>
+
+    <h2>lugar en el que quiero trabajar</h2>           
+        <h3>CD Projekt</h3>
+      <figure>
+        <img src="https://cdn.wccftech.com/wp-content/uploads/2016/11/cdpr_logo.png"width=440" height="220">
+      </figure>
+    
+
+    </section>
+   </body>
+  <footer>
+    Derechos Reservados luis vergara
+  </footer>
+ 
+  
+
+</html>
