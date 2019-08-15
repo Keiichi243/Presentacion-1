@@ -1,0 +1,25 @@
+#principal{
+	width: 300px;
+    background-image: radial-gradient(white,black);
+	text-align: center;
+    margin: 45px auto;
+    padding: 55px;
+    border-radius: 20px 5px 15px 40px;
+    box-shadow: #086a87  15px 15px 35px;
+	text-shadow: #D8F6CE 3px 3px;  
+	-webkit-box-reflect: below -25px -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgba(255, 255, 255, 0.5)));
+	outline: 2px dashed #0000ff;
+	outline:-offset:15px;
+	-moz-transform:scale(1,-1);
+	-webkit-transition:-webkit-transform 1s ease 0.3s;
+}
+#barralateral{
+    background-color: #000000;
+    float:left;
+    height:1040px;
+}
+
+#principal:hover{
+        -webkit-transform:rotate(5deg);
+        background-image: radial-gradient(green,black); 
+}
